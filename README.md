@@ -18,10 +18,18 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
-
+```
+##Developed by : Janani R
+##Reference number : 21500825 
+num_words =0
+with open('text.txt','r') as file1:
+    for i in file1:
+        word =i.split()
+        num_words += len(word)
+print("Number of words={}".format(num_words))
+```
 ### OUTPUT:
-
-
+![Wordcount](./wordcount.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
