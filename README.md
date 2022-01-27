@@ -1,6 +1,6 @@
 # Word-count
 ## AIM:
-To write a python program for getting the word count from a text.
+To write a python program for getting the word count from a file.
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
@@ -38,4 +38,4 @@ print("Number of words={}".format(num_words))
 ![Wordcount](./wordcount.png)
 
 ## RESULT:
-Thus the program is written to find the word count from a text.
+Thus the program is written to find the word count from a file.
